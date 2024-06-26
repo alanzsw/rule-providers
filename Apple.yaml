@@ -1,5 +1,5 @@
-#Apple    
 payload:
+#Apple
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,Apple.co
   - DOMAIN-SUFFIX,Apple.com

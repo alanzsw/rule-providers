@@ -13,3 +13,5 @@ payload:
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiao.com
+  - DOMAIN-SUFFIX,zjcdn.com
+  - DOMAIN-SUFFIX,zijieapi.com

@@ -1,4 +1,3 @@
-#Twitch  
 payload:
   - DOMAIN-SUFFIX,ext-twitch.tv
   - DOMAIN-SUFFIX,jtvnw.net

@@ -191,7 +191,20 @@ payload:
   - DOMAIN-SUFFIX,zmzapi.com
   - DOMAIN-SUFFIX,zmzapi.net
   - DOMAIN-SUFFIX,zmzfile.com
-  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-SUFFIX,huya.com
+  - DOMAIN-SUFFIX,huyagame.cn
+  - DOMAIN-SUFFIX,peiwanlu.com
+  - DOMAIN-SUFFIX,snapplay.com
+  - DOMAIN-SUFFIX,douyu.com
+  - DOMAIN-SUFFIX,douyu.tv
+  - DOMAIN-SUFFIX,douyuba.cn
+  - DOMAIN-SUFFIX,douyucdn.cn
+  - DOMAIN-SUFFIX,douyucdn2.cn
+  - DOMAIN-SUFFIX,douyupcdn.cn
+  - DOMAIN-SUFFIX,douyuscdn.com
+  - DOMAIN-SUFFIX,douyutv.com
+  - DOMAIN-SUFFIX,doyonoc.com
+  - DOMAIN-SUFFIX,oywtv.com
   - DOMAIN-KEYWORD,qiyi
   - IP-CIDR,101.224.0.0/13,no-resolve
   - IP-CIDR,101.71.154.241/32,no-resolve

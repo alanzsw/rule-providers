@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,netflix.net
   - DOMAIN-SUFFIX,netflixdnstest0.com
   - DOMAIN-SUFFIX,netflixdnstest1.com
-  - DOMAIN-SUFFIX,netflixdnstest10.com
   - DOMAIN-SUFFIX,netflixdnstest2.com
   - DOMAIN-SUFFIX,netflixdnstest3.com
   - DOMAIN-SUFFIX,netflixdnstest4.com
@@ -21,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,netflixdnstest7.com
   - DOMAIN-SUFFIX,netflixdnstest8.com
   - DOMAIN-SUFFIX,netflixdnstest9.com
+  - DOMAIN-SUFFIX,netflixdnstest10.com
   - DOMAIN-SUFFIX,netflixinvestor.com
   - DOMAIN-SUFFIX,netflixstudios.com
   - DOMAIN-SUFFIX,netflixtechblog.com
@@ -35,5 +35,6 @@ payload:
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
+  - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,netflixdnstest
   - PROCESS-NAME,com.netflix.mediaclie
